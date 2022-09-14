@@ -271,7 +271,7 @@
 			<name>Tanks</name>
 			<Placemark>
 				<name>Baoli 2</name>
-				<description><![CDATA[<img style="max-width:500px;" src="Baoli2.JPG">]]></description>
+				<description><![CDATA[<img style="max-width:500px;" src="https://raw.githubusercontent.com/DeeprajPandey/ciar/main/Vaghela/Baoli2.JPG">]]></description>
 				<styleUrl>#msn_donut</styleUrl>
 				<Point>
 					<coordinates>81.039714,23.684896,755.4142000000001</coordinates>
