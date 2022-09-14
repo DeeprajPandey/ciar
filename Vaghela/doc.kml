@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Vaghela_kmz.kmz</name>
+	<open>1</open>
+	<StyleMap id="msn_donut">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_donut</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_donut</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_donut">
+		<IconStyle>
+			<color>ffffff55</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_placemark_square_highlight">
+		<IconStyle>
+			<color>ff7f55ff</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_triangle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_placemark_square">
+		<IconStyle>
+			<color>ff7f55ff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_placemark_square">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_triangle">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_triangle">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_donut">
+		<IconStyle>
+			<color>ffffff55</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Vaghela_all</name>
+		<open>1</open>
+		<Folder>
+			<name>Waterbodies</name>
+			<Placemark>
+				<name>Natni Talab</name>
+				<description><![CDATA[<img style="max-width:500px;" src="Natni wala.jpg">]]></description>
+				<LookAt>
+					<longitude>81.03358166453046</longitude>
+					<latitude>23.67877418050378</latitude>
+					<altitude>0</altitude>
+					<heading>1.614841288876621</heading>
+					<tilt>35.62076411809642</tilt>
+					<range>966.1967616839978</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.03200316875194,23.67922749872869,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baba Talab</name>
+				<description><![CDATA[<img style="max-width:500px;" src="BabaTalab.JPG">]]></description>
+				<LookAt>
+					<longitude>81.04328526721383</longitude>
+					<latitude>23.68374948241362</latitude>
+					<altitude>0</altitude>
+					<heading>1.618738508693985</heading>
+					<tilt>35.62578141759811</tilt>
+					<range>1925.475885335043</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.03856344883422,23.68218937298004,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rani Talab</name>
+				<description><![CDATA[<img style="max-width:500px;" src="RaniTalab.JPG">]]></description>
+				<LookAt>
+					<longitude>81.04225239806276</longitude>
+					<latitude>23.68607039549901</latitude>
+					<altitude>0</altitude>
+					<heading>1.618323729706648</heading>
+					<tilt>35.62594172564716</tilt>
+					<range>1956.118754876613</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.03822015860149,23.68433025204525,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>School Talab</name>
+				<description><![CDATA[<img style="max-width:500px;" src="school talab1.jpg">]]></description>
+				<LookAt>
+					<longitude>81.04770944411555</longitude>
+					<latitude>23.6910997965953</latitude>
+					<altitude>0</altitude>
+					<heading>1.620515937406571</heading>
+					<tilt>35.62887148409844</tilt>
+					<range>2516.110713242495</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.04308365550227,23.68471386478523,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kabir Talab</name>
+				<description><![CDATA[<img style="max-width:500px;" src="KabirTalab.JPG">]]></description>
+				<LookAt>
+					<longitude>81.041967649577</longitude>
+					<latitude>23.68087522728496</latitude>
+					<altitude>0</altitude>
+					<heading>1.618452822465364</heading>
+					<tilt>43.04815850806947</tilt>
+					<range>1045.53498457146</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.03997475350964,23.67996989633162,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Tanks</name>
+			<Placemark>
+				<name>Baoli 2</name>
+				<description><![CDATA[<img style="max-width:500px;" src="Baoli2.JPG">]]></description>
+				<styleUrl>#msn_donut</styleUrl>
+				<Point>
+					<coordinates>81.039714,23.684896,755.4142000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baoli 3</name>
+				<description><![CDATA[<img style="max-width:500px;" src="Baoli3.jpg">]]></description>
+				<styleUrl>#msn_donut</styleUrl>
+				<Point>
+					<coordinates>81.03659500000001,23.682997,782.7794</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Royal Structures</name>
+			<Placemark>
+				<name>VST1</name>
+				<description><![CDATA[<img style="max-width:500px;" src="SeatsNearSheshashayi.jpg">
+
+Seats and Platform]]></description>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>81.041034,23.689004,560.0361</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VST2</name>
+				<description><![CDATA[<img style="max-width:500px;" src="QilaGate1.JPG">
+
+Qila Gate 1]]></description>
+				<LookAt>
+					<longitude>81.04323554433995</longitude>
+					<latitude>23.68658082767781</latitude>
+					<altitude>0</altitude>
+					<heading>-123.4853689671744</heading>
+					<tilt>60.00194338377258</tilt>
+					<range>250.2069462024779</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.04322062963502,23.68663698399792,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VST3</name>
+				<description><![CDATA[<img style="max-width:500px;" src="MaharajaSeat.jpg">
+
+Maharaja's Seat]]></description>
+				<LookAt>
+					<longitude>81.04094254455809</longitude>
+					<latitude>23.68665421852606</latitude>
+					<altitude>0</altitude>
+					<heading>-123.4862901801162</heading>
+					<tilt>60.00258554881435</tilt>
+					<range>332.4061335333263</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.04223013644111,23.68684665023808,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VST4</name>
+				<description><![CDATA[<img style="max-width:500px;" src="Watchpoint.JPG">
+
+Watchpoint]]></description>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>81.038462,23.686493,746.88</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VST5</name>
+				<description><![CDATA[<img style="max-width:500px;" src="PassageChamber.JPG">
+
+Passage and Chamber]]></description>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>81.03894099999999,23.686277,744.1893</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VST6</name>
+				<description><![CDATA[<img style="max-width:500px;" src="Worksite.JPG">
+
+Worksite]]></description>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>81.038708,23.686033,748.9374</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VST7</name>
+				<description><![CDATA[<img style="max-width:500px;" src="SeatAtCaveTemple.JPG">
+
+Seats]]></description>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>81.036584,23.68635099999999,748.9299</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VST8</name>
+				<description><![CDATA[<img style="max-width:500px;" src="Treasury1.JPG">
+
+Treasury]]></description>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<coordinates>81.03805704282111,23.68522180924612,764.1365</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VST9</name>
+				<description><![CDATA[<img style="max-width:500px;" src="MotiMahal.JPG">
+
+Moti Mahal]]></description>
+				<LookAt>
+					<longitude>81.03654152406368</longitude>
+					<latitude>23.68486630493869</latitude>
+					<altitude>0</altitude>
+					<heading>-123.4879155914471</heading>
+					<tilt>32.22693088843754</tilt>
+					<range>394.8888990046886</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.03720669000866,23.68486617202726,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VST10</name>
+				<description><![CDATA[<img style="max-width:500px;" src="RoomBabaTalab.JPG">
+
+Room with dome]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-04-04</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>81.03790339174336</longitude>
+					<latitude>23.68161161891212</latitude>
+					<altitude>0</altitude>
+					<heading>-146.9169147211885</heading>
+					<tilt>60.00156093978644</tilt>
+					<range>200.6866042813187</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_square</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.03802116143049,23.68163647405582,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Sculptures</name>
+			<Placemark>
+				<name>VS1</name>
+				<description><![CDATA[<img style="max-width:500px;" src="VS1_VarahaPugdandi.jpg">
+
+Sculpture on the Pugdandi 1]]></description>
+				<styleUrl>#msn_placemark_circle</styleUrl>
+				<Point>
+					<coordinates>81.04249106390687,23.68799289103279,619.0359</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VS2</name>
+				<description><![CDATA[<img style="max-width:500px;" src="GaneshaPugdandi.JPG">
+
+Sculpture on the Pugdandi 2]]></description>
+				<styleUrl>#msn_placemark_circle</styleUrl>
+				<Point>
+					<coordinates>81.042331,23.68795799999999,610.7396</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VS3</name>
+				<description><![CDATA[<img style="max-width:500px;" src="SculptureCluster.JPG">
+
+Cluster near watchpoint]]></description>
+				<styleUrl>#msn_placemark_circle</styleUrl>
+				<Point>
+					<coordinates>81.03852165753739,23.6864500709672,746.88</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Temple</name>
+			<Placemark>
+				<name>VT1</name>
+				<description><![CDATA[<img style="max-width:500px;" src="VaghelTempleNatniwalaTalab1.JPG">
+
+Temple beside Natniwala Talab]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-04-04</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>81.03153304638977</longitude>
+					<latitude>23.6793601086337</latitude>
+					<altitude>0</altitude>
+					<heading>-154.3525720998549</heading>
+					<tilt>60.00110440404646</tilt>
+					<range>141.8599468708998</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.03149528339014,23.67902680404396,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VT2</name>
+				<description><![CDATA[<img style="max-width:500px;" src="IMG_6024_VT2x.JPG">
+
+Temple 2 near Kabir Talab]]></description>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<coordinates>81.03990224902311,23.67936110077103,787.7818</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VT3</name>
+				<description><![CDATA[<img style="max-width:500px;" src="IMG_6025_VT3x.JPG">
+
+Temple 3 near Kabir Talab]]></description>
+				<LookAt>
+					<longitude>81.03908337371969</longitude>
+					<latitude>23.68103143579158</latitude>
+					<altitude>0</altitude>
+					<heading>-123.487171855245</heading>
+					<tilt>0</tilt>
+					<range>622.0411362365566</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.03993243068048,23.679421524359,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VT4</name>
+				<description><![CDATA[<img style="max-width:500px;" src="VT1.jpg">
+
+Temple 1 near Kabir Talab]]></description>
+				<LookAt>
+					<longitude>81.03979595390284</longitude>
+					<latitude>23.68054802147675</latitude>
+					<altitude>0</altitude>
+					<heading>-123.4868185593735</heading>
+					<tilt>0</tilt>
+					<range>397.0281551497882</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.04075845451966,23.67968332125954,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VT5</name>
+				<description><![CDATA[<img style="max-width:500px;" src="KabirGufaMandir.JPG">
+
+Kabir Gufa Mandir]]></description>
+				<LookAt>
+					<longitude>81.04010610971446</longitude>
+					<latitude>23.68040974867989</latitude>
+					<altitude>0</altitude>
+					<heading>-123.4866939899243</heading>
+					<tilt>0</tilt>
+					<range>399.0444725575354</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.04164946553784,23.67950219362306,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VT6</name>
+				<description><![CDATA[<img style="max-width:500px;" src="LakshmanTemple.JPG">
+
+Bandhavadheesh Temple]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2017-01-04</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>81.03782126653576</longitude>
+					<latitude>23.68515478228766</latitude>
+					<altitude>0</altitude>
+					<heading>-178.6309592934002</heading>
+					<tilt>60.00116128030027</tilt>
+					<range>149.3430211474092</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.03786527058028,23.68510741282294,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VT7</name>
+				<description><![CDATA[<img style="max-width:500px;" src="School.JPG">
+
+School]]></description>
+				<LookAt>
+					<longitude>81.04248078079898</longitude>
+					<latitude>23.68606976712632</latitude>
+					<altitude>0</altitude>
+					<heading>-123.4852376284273</heading>
+					<tilt>0</tilt>
+					<range>531.7748806771099</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.04366729486308,23.68520872667102,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VT8</name>
+				<description><![CDATA[<img style="max-width:500px;" src="HanumanMandir.jpg">
+
+Hanuman Temple]]></description>
+				<LookAt>
+					<longitude>81.04244870756951</longitude>
+					<latitude>23.6860959591953</latitude>
+					<altitude>0</altitude>
+					<heading>-123.4845157513253</heading>
+					<tilt>60.00078085113605</tilt>
+					<range>100.189838424338</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.04262355625438,23.68603148069598,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VT9</name>
+				<description><![CDATA[<img style="max-width:500px;" src="VaghelaCaveTemple.JPG">
+
+Cave Temple]]></description>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<coordinates>81.036584,23.68635099999999,748.9299</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VT10</name>
+				<description><![CDATA[<img style="max-width:500px;" src="TempleBabaTalab.JPG">
+
+Temple beside Baba Talab]]></description>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<coordinates>81.03766899999999,23.682691,790.2584000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
