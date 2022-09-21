@@ -1,0 +1,1891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kalachuri Remains.kml</name>
+	<Style id="failed15">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed1000">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed19">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_polygon2">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_polygon1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed330">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_polygon11">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.84</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_polygon10">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_polygon8">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_polygon40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_homegardenbusiness0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_homegardenbusiness00">
+		<IconStyle>
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_open-diamond1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed110">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_homegardenbusiness1">
+		<IconStyle>
+			<scale>0.48</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed70">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="failed111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed160</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_polygon1">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.84</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed17">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_polygon3">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_polygon4">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed00">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_polygon01">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed24">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_polygon7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed3">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed23">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_polygon4">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_polygon4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_polygon5">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="failed50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed170</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_polygon00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed160">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond0">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_homegardenbusiness">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_polygon2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond0">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_polygon7">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed170">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed7">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed34">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed35">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_polygon3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_polygon00">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_polygon21">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_polygon5">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed01">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed02">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="failed14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed38">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed28">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed0">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_polygon3">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_polygon21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.72</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_polygon0">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.72</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed100">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed29">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed330</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed51</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed11">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_homegardenbusiness3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed400">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_homegardenbusiness">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_polygon0">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_homegardenbusiness2">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_polygon02">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed102">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_polygon">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_homegardenbusiness0">
+		<IconStyle>
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed8">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed41">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_polygon6">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="failed1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed3000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed03</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_homegardenbusiness10">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed90">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_homegardenbusiness2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_polygon10">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_polygon1">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_homegardenbusiness0">
+		<IconStyle>
+			<scale>0.48</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed140">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed03">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed51">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_polygon5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_polygon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_open-diamond1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed32">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed101">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_homegardenbusiness2">
+		<IconStyle>
+			<scale>0.48</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_homegardenbusiness1">
+		<IconStyle>
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_homegardenbusiness">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed20">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed5">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="failed31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed40">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed6">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_polygon0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed9">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_homegardenbusiness1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_polygon6">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed000">
+		<IconStyle>
+			<color>ff0701fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed120">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed13">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_polygon6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_polygon">
+		<IconStyle>
+			<color>ffff02fc</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Kalachuri Remains</name>
+		<open>1</open>
+		<Folder>
+			<name>Sculptures(in-situ)</name>
+			<Placemark>
+				<name>S1-ShesashayiVishnu</name>
+				<Snippet maxLines="2">SHESHA SAIYA</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="SS1.JPG">]]></description>
+				<styleUrl>#msn_placemark_circle</styleUrl>
+				<Point>
+					<coordinates>81.04043333333334,23.689,567.780273</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S2-Varaha</name>
+				<Snippet maxLines="2">HATHI SCUPTE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="Varaha3.png">]]></description>
+				<styleUrl>#msn_open-diamond1</styleUrl>
+				<Point>
+					<coordinates>81.04555000000001,23.68786666666667,720.432251</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S3Varaha</name>
+				<Snippet maxLines="2">VRHABIG</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="Varaha1.png">]]></description>
+				<styleUrl>#msn_open-diamond1</styleUrl>
+				<Point>
+					<coordinates>81.04285,23.68606666666666,723.007568</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S4-Varaha</name>
+				<Snippet maxLines="2">2ND VARAHA</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="varaha2.JPG">]]></description>
+				<styleUrl>#failed26</styleUrl>
+				<Point>
+					<coordinates>81.04153333333333,23.68576666666667,762.4472050000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S5-Matsya</name>
+				<Snippet maxLines="2">MATSYA</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="Matsya.png">]]></description>
+				<styleUrl>#failed111</styleUrl>
+				<Point>
+					<coordinates>81.04098333333333,23.68591666666667,742.40448</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S8-Kurma</name>
+				<Snippet maxLines="2">KURMA</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="kurma.JPG">]]></description>
+				<styleUrl>#failed3000</styleUrl>
+				<Point>
+					<coordinates>81.03933333333333,23.68548333333334,754.516541</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Sculptures(ex-situ)</name>
+			<Placemark>
+				<name>S6-Vishnu</name>
+				<Snippet maxLines="2">ON D WAY</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="Broken Vishnu.jpg">]]></description>
+				<styleUrl>#failed60</styleUrl>
+				<Point>
+					<coordinates>81.039997,23.685488,747.8737180000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S7</name>
+				<description><![CDATA[<img style="max-width:500px;" src="Broken male figure.jpg">]]></description>
+				<styleUrl>#failed33</styleUrl>
+				<Point>
+					<coordinates>81.039659,23.685395,743.376648</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S9</name>
+				<Snippet maxLines="2">KURMA</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="IMG_20220403_074116556_KurmaSculptures.jpg">]]></description>
+				<styleUrl>#failed300</styleUrl>
+				<Point>
+					<coordinates>81.03933333333333,23.68548333333334,754.516541</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S10-Kalki</name>
+				<Snippet maxLines="2">BBATHNGA</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="K1_01.jpg">]]></description>
+				<styleUrl>#msn_open-diamond</styleUrl>
+				<Point>
+					<coordinates>81.037976,23.682772,783.212036</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S11</name>
+				<description><![CDATA[<img style="max-width:500px;" src="Roomwithsculp.jpg">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-04-04</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>81.03795102443885</longitude>
+					<latitude>23.6816106461848</latitude>
+					<altitude>0</altitude>
+					<heading>174.3990108866471</heading>
+					<tilt>20.86775087163395</tilt>
+					<range>24.56696671222295</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.03795731589526,23.68163238765028,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S12</name>
+				<Snippet maxLines="2">SCULPTRE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="Lady.jpg">]]></description>
+				<styleUrl>#failed4</styleUrl>
+				<Point>
+					<coordinates>81.03657200000001,23.68936100000001,574.718628</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>StructuralRemains</name>
+			<Placemark>
+				<name>ST1</name>
+				<description><![CDATA[<img style="max-width:500px;" src="Sidhhbaba.JPG">]]></description>
+				<styleUrl>#msn_polygon21</styleUrl>
+				<Point>
+					<coordinates>81.025173,23.703998,501.084076</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST2</name>
+				<description><![CDATA[<img style="max-width:500px;" src="K1.jpg">]]></description>
+				<styleUrl>#failed10</styleUrl>
+				<Point>
+					<coordinates>81.035484,23.695654,485.001007</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST3</name>
+				<Snippet maxLines="2">ST KAL</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="ST3-STonSSroad.jpg">]]></description>
+				<styleUrl>#msn_polygon40</styleUrl>
+				<Point>
+					<coordinates>81.042942,23.692023,509.468506</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST4</name>
+				<Snippet maxLines="2">ST HOUSE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="ST4Gopalpur.jpg">]]></description>
+				<styleUrl>#msn_polygon40</styleUrl>
+				<Point>
+					<coordinates>81.041268,23.691408,500.832001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST5</name>
+				<Snippet maxLines="2">TMP BROKN</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="Kullu2-Temple.jpg">]]></description>
+				<styleUrl>#msn_polygon40</styleUrl>
+				<Point>
+					<coordinates>81.04070400000001,23.690296,509.57608</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST6</name>
+				<Snippet maxLines="2">ST</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="ST6-Platformwithimages.jpg">]]></description>
+				<styleUrl>#msn_polygon40</styleUrl>
+				<Point>
+					<coordinates>81.04169400000001,23.690263,515.278809</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST7</name>
+				<Snippet maxLines="2">ST TMPLE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="ST3-templeremainnearsitout.jpg">]]></description>
+				<styleUrl>#failed16</styleUrl>
+				<Point>
+					<coordinates>81.04157600000001,23.690006,522.463013</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST8</name>
+				<Snippet maxLines="2">ST NEAR KULLU1</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="ST8-STnearKullu1.jpg">]]></description>
+				<styleUrl>#msn_polygon40</styleUrl>
+				<Point>
+					<coordinates>81.041854,23.689915,524.742615</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST9</name>
+				<Snippet maxLines="2">TEMPEL</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="ST4-Base of temple.jpg">]]></description>
+				<styleUrl>#failed18</styleUrl>
+				<Point>
+					<coordinates>81.041657,23.689563,531.530457</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST10</name>
+				<Snippet maxLines="2">ST C17</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="ST5-StbesideC17.jpg">]]></description>
+				<styleUrl>#failed31</styleUrl>
+				<Point>
+					<coordinates>81.041623,23.689502,528.939758</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST11</name>
+				<Snippet maxLines="2">ST C18</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="IMG_8378_StructuralRemainsC18.JPG">]]></description>
+				<styleUrl>#msn_polygon00</styleUrl>
+				<Point>
+					<coordinates>81.04191299999999,23.689441,537.082825</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST12</name>
+				<description><![CDATA[<img style="max-width:500px;" src="ST7-Templebaseabove.jpg">]]></description>
+				<styleUrl>#failed210</styleUrl>
+				<Point>
+					<coordinates>81.04195300000001,23.689334,532.7854610000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST13</name>
+				<description><![CDATA[<img style="max-width:500px;" src="Guardroom1.png">]]></description>
+				<styleUrl>#msn_polygon</styleUrl>
+				<Point>
+					<coordinates>81.043421,23.686292,716.2973019999999</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST14</name>
+				<Snippet maxLines="2">GTE2</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="KilaGate2.png">]]></description>
+				<styleUrl>#msn_polygon</styleUrl>
+				<Point>
+					<coordinates>81.04344399999999,23.686148,709.236206</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST15</name>
+				<Snippet maxLines="2">GRDPT2</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="Guardroom2.jpg">]]></description>
+				<styleUrl>#msn_polygon6</styleUrl>
+				<Point>
+					<coordinates>81.04346200000001,23.686087,704.630676</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST16</name>
+				<Snippet maxLines="2">3 GATE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="KilaGate3.png">]]></description>
+				<styleUrl>#msn_polygon</styleUrl>
+				<Point>
+					<coordinates>81.043176,23.685962,729.0481569999999</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST17</name>
+				<Snippet maxLines="2">PLATFORM</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="ST9-SenSampraday.jpg">]]></description>
+				<styleUrl>#failed22</styleUrl>
+				<Point>
+					<coordinates>81.040031,23.688898,565.810059</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST18</name>
+				<Snippet maxLines="2">ST BADE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="I1.jpg">]]></description>
+				<styleUrl>#msn_polygon1</styleUrl>
+				<Point>
+					<coordinates>81.03716,23.688826,566.993591</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST19</name>
+				<Snippet maxLines="2">STRUCTURAL REMAINS</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="I2-broken Temple.jpg">]]></description>
+				<styleUrl>#failed310</styleUrl>
+				<Point>
+					<coordinates>81.036827,23.689,569.229614</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST20</name>
+				<Snippet maxLines="2">TMP RES</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="I4-temple residence.jpg">]]></description>
+				<styleUrl>#msn_polygon3</styleUrl>
+				<Point>
+					<coordinates>81.036535,23.68933,575.0896</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST21</name>
+				<Snippet maxLines="2">GTEWAY</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="I8-Gateway.jpg">]]></description>
+				<styleUrl>#msn_polygon1</styleUrl>
+				<Point>
+					<coordinates>81.03661099999999,23.689389,565.110962</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST22</name>
+				<Snippet maxLines="2">SR 2</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="2nd gateway.jpg">]]></description>
+				<styleUrl>#failed25</styleUrl>
+				<Point>
+					<coordinates>81.036441,23.689362,572.049927</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST23</name>
+				<Snippet maxLines="2">ST RAMTAL</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="A10-STnear Ramtalaiya.jpg">]]></description>
+				<styleUrl>#msn_polygon00</styleUrl>
+				<Point>
+					<coordinates>81.030587,23.692849,494.071259</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST24</name>
+				<Snippet maxLines="2">ORNAMNT</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="J6-ornament:temple remains .jpg">]]></description>
+				<styleUrl>#msn_polygon4</styleUrl>
+				<Point>
+					<coordinates>81.0301,23.69417199999999,483.713684</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST25</name>
+				<Snippet maxLines="2">STRUCTURAL REMAINS   SEHRA</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="Sehra.jpg">]]></description>
+				<styleUrl>#failed30</styleUrl>
+				<Point>
+					<coordinates>81.028594,23.653654,468.3930359999999</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST26</name>
+				<Snippet maxLines="2">STRUCTURE NEAR RAJBEHRA</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="Rajbehera.jpg">]]></description>
+				<styleUrl>#failed39</styleUrl>
+				<Point>
+					<coordinates>81.021468,23.662477,482.075012</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST27</name>
+				<description><![CDATA[<img style="max-width:500px;" src="ST27-Tala.jpg">]]></description>
+				<styleUrl>#msn_polygon0</styleUrl>
+				<Point>
+					<coordinates>81.024828,23.714863,455.3675539999999</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST28</name>
+				<Snippet maxLines="2">POSSIBLETMPLE?</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="DSC01810.JPG">]]></description>
+				<styleUrl>#msn_polygon2</styleUrl>
+				<Point>
+					<coordinates>81.024838,23.724683,458.933685</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST29</name>
+				<Snippet maxLines="2">BIJUIATMPLE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="Bijhariya.JPG">]]></description>
+				<styleUrl>#msn_polygon7</styleUrl>
+				<Point>
+					<coordinates>81.050569,23.727818,447.399597</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST30</name>
+				<description><![CDATA[<img style="max-width:500px;" src="ST30-Jwalamukhi.jpg">]]></description>
+				<styleUrl>#msn_polygon0</styleUrl>
+				<Point>
+					<coordinates>81.097932,23.741104,421.207825</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST31</name>
+				<description><![CDATA[<img style="max-width:500px;" src="ST31-Manpur-Siva Temple.jpg">]]></description>
+				<styleUrl>#msn_polygon0</styleUrl>
+				<Point>
+					<coordinates>81.106041,23.765599,410.654602</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST32</name>
+				<description><![CDATA[<img style="max-width:500px;" src="ST32-Kuthulia-HanumanTemple.jpg">]]></description>
+				<styleUrl>#msn_polygon0</styleUrl>
+				<Point>
+					<coordinates>81.109447,23.79008,390.752899</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST33</name>
+				<description><![CDATA[<img style="max-width:500px;" src="ST33-KuthuliaStupa.jpg">]]></description>
+				<styleUrl>#msn_polygon5</styleUrl>
+				<Point>
+					<coordinates>81.105135,23.795509,404.875793</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Temples</name>
+			<Placemark>
+				<name>T1</name>
+				<Snippet maxLines="2">BADE SHESH SAINYA</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="T1.jpg">]]></description>
+				<styleUrl>#failed14</styleUrl>
+				<Point>
+					<coordinates>81.036869,23.68934,564.585632</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T2</name>
+				<Snippet maxLines="2">TEMPLE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="T2.jpg">]]></description>
+				<styleUrl>#failed12</styleUrl>
+				<Point>
+					<coordinates>81.04158200000001,23.689743,540.164246</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T3</name>
+				<Snippet maxLines="2">ST BSYD T2</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="T4.jpg">]]></description>
+				<styleUrl>#failed2</styleUrl>
+				<Point>
+					<coordinates>81.04154,23.689764,533.6805419999999</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T4</name>
+				<Snippet maxLines="2">TMPLE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="T3.jpg">]]></description>
+				<styleUrl>#failed1</styleUrl>
+				<Point>
+					<coordinates>81.041404,23.690006,531.814514</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T5</name>
+				<description><![CDATA[<img style="max-width:500px;" src="MatsyaTemple.png">]]></description>
+				<LookAt>
+					<longitude>81.03999236059413</longitude>
+					<latitude>23.68646459602519</latitude>
+					<altitude>0</altitude>
+					<heading>129.9071345266098</heading>
+					<tilt>53.39981599955328</tilt>
+					<range>1348.850206946775</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#failed50</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>81.04100323833104,23.68581489816401,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T6</name>
+				<Snippet maxLines="2">RT1</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="/Users/pontiac/Desktop/ciar-github/files/RT.jpeg">]]></description>
+				<styleUrl>#msn_homegardenbusiness2</styleUrl>
+				<Point>
+					<coordinates>81.038237,23.685169,767.440552</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T7</name>
+				<Snippet maxLines="2">RT2TMPL</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="RT2.jpg">]]></description>
+				<styleUrl>#msn_homegardenbusiness1</styleUrl>
+				<Point>
+					<coordinates>81.038679,23.684751,786.672791</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T8</name>
+				<Snippet maxLines="2">RT3TMPLE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="RT3.jpg">]]></description>
+				<styleUrl>#msn_homegardenbusiness3</styleUrl>
+				<Point>
+					<coordinates>81.038622,23.684699,771.1489869999999</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T9</name>
+				<Snippet maxLines="2">RT4TMPLE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="RT4.png">]]></description>
+				<styleUrl>#msn_homegardenbusiness</styleUrl>
+				<Point>
+					<coordinates>81.03840599999999,23.684044,764.623108</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T10</name>
+				<Snippet maxLines="2">RT5TMPLE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="RT5.png">]]></description>
+				<styleUrl>#msn_homegardenbusiness</styleUrl>
+				<Point>
+					<coordinates>81.038456,23.684141,771.805969</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T11</name>
+				<Snippet maxLines="2">RT6TMPLE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="RT6.jpg">]]></description>
+				<styleUrl>#msn_homegardenbusiness0</styleUrl>
+				<Point>
+					<coordinates>81.038453,23.68435300000001,770.548767</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T12</name>
+				<Snippet maxLines="2">RT7TMPLE</Snippet>
+				<description><![CDATA[<img style="max-width:500px;" src="RT7.jpg">]]></description>
+				<styleUrl>#msn_homegardenbusiness0</styleUrl>
+				<Point>
+					<coordinates>81.03761,23.683962,769.948486</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
